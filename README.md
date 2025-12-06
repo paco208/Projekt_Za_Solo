@@ -14,4 +14,4 @@ Repozitorij zaenkrat vsebuje samo README datoteko.
 
 ## Fun fact
 
-Rad obiskujem gradove
+Rad obiskujem gradove. 🏰
