@@ -3,7 +3,7 @@
 ## O projektu
 
 To je moj prvi preprost GitHub projekt, v katerem se učim osnov uporabe Git-a in GitHub-a.  
-Repozitorij zaenkrat vsebuje samo README datoteko.
+V repozitoriju je tudi opis odprtokodnega projekta (Linux) v .docx obliki.
 
 ## Kaj sem se naučil
 
